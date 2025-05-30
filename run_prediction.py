@@ -457,7 +457,7 @@ class TOWAnalyzer:
         
         # Save results if output path provided
         if output_path:
-            new_df.to_csv(output_path, index=False)
+            new_df.to_csv(output_path, index=False, sep='\t')
             print(f"\nPredictions saved to: {output_path}")
         
         # Create prediction visualization
