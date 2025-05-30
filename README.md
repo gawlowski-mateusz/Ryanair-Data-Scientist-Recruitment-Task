@@ -1,4 +1,4 @@
-# Ryanair-Data-Scientist-Recruitment--Task
+# Ryanair-Data-Scientist-Recruitment-Task
 
 Regression model for predicting aircraft Take-Off Weight.
 
